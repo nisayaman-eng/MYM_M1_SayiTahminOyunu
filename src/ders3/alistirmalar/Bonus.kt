@@ -20,7 +20,7 @@ fun main() {
         Kahramanın Adı: $ejderhaninAdi
         Saldırı Gücü: $saldiriGucu
         Kritik Hasar: $kritikHasarBonusu
-        Ejderhanın kalan Canı: ${ejderhaninCani}
+        Ejderhanın kalan Canı: $formatliEjderhaCani
     """.trimIndent())
 
 }
