@@ -3,7 +3,7 @@ package ders5
 fun main() {
 
     val rastgeleSayi = (1..100).random()
-    println(rastgeleSayi)
+    //println(rastgeleSayi)
 
     println("Sayı Tahmin Oyununa Hoş Geldiniz 🙌")
     print("Sayıyı tahmin ediniz: ")
